@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>B</key>
+	<array>
+		<dict>
+			<key>parkName</key>
+			<string>Big Cypress</string>
+			<key>parkImageS</key>
+			<string>Images/Small/bigcypress.jpg</string>
+			<key>parkLocation</key>
+			<string>Ochopee,FL</string>
+			<key>parkImageL</key>
+			<string></string>
+			<key>yearOpen</key>
+			<date>1974-10-11T14:39:00Z</date>
+			<key>parkAddress</key>
+			<string>33100 Tamiami Trail East
+                    Ochopee, FL 34141 </string>
+			<key>parkDesc</key>
+			<string>Big Cypress National Preserve was created to protect the fresh water&apos;s natural flow from the Big Cypress Swamp into the Everglades and Ten Thousand Islands. In the Preserve, fresh water feeds a mosaic of five distinct habitats in its 729,000 acres and is vital to the health of southwest Florida&apos;s estuaries and the Gulf of Mexico. Big Cypress National Preserve contains a mixture of tropical and temperate plant communities that are home to a diversity of wildlife, including the endangered Florida panther.
+                    
+                    The preserve also protects the customary use and occupancy by the Seminole Tribe of Florida and the Miccosukee Tribe of Indians of Florida as well as a variety of traditional recreational activities enjoyed by many.</string>
+			<key>parkMap</key>
+			<string></string>
+			<key>direction</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>parkName</key>
+			<string>Biscayne</string>
+			<key>parkImageS</key>
+			<string>Images/Small/Biscayne.jpg</string>
+			<key>parkLocation</key>
+			<string>Miami, Key Biscayne &amp; Homestead, FL</string>
+			<key>parkImageL</key>
+			<string></string>
+			<key>yearOpen</key>
+			<date>1974-10-11T14:39:00Z</date>
+			<key>parkAddress</key>
+			<string>33100 Tamiami Trail East
+                    Ochopee, FL 34141 </string>
+			<key>parkDesc</key>
+			<string>Big Cypress National Preserve was created to protect the fresh water&apos;s natural flow from the Big Cypress Swamp into the Everglades and Ten Thousand Islands. In the Preserve, fresh water feeds a mosaic of five distinct habitats in its 729,000 acres and is vital to the health of southwest Florida&apos;s estuaries and the Gulf of Mexico. Big Cypress National Preserve contains a mixture of tropical and temperate plant communities that are home to a diversity of wildlife, including the endangered Florida panther.
+                    
+                    The preserve also protects the customary use and occupancy by the Seminole Tribe of Florida and the Miccosukee Tribe of Indians of Florida as well as a variety of traditional recreational activities enjoyed by many.</string>
+			<key>parkMap</key>
+			<string></string>
+			<key>direction</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>C</key>
+	<array>
+		<dict>
+			<key>parkName</key>
+			<string>Canaveral</string>
+			<key>parkImageS</key>
+			<string>Images/Small/Canaveral.jpg</string>
+			<key>parkLocation</key>
+			<string>Titusville and New Smyrna Beach,FL</string>
+			<key>parkImageL</key>
+			<string></string>
+			<key>yearOpen</key>
+			<date>1974-10-11T14:39:00Z</date>
+			<key>parkAddress</key>
+			<string>33100 Tamiami Trail East
+                    Ochopee, FL 34141 </string>
+			<key>parkDesc</key>
+			<string>Big Cypress National Preserve was created to protect the fresh water&apos;s natural flow from the Big Cypress Swamp into the Everglades and Ten Thousand Islands. In the Preserve, fresh water feeds a mosaic of five distinct habitats in its 729,000 acres and is vital to the health of southwest Florida&apos;s estuaries and the Gulf of Mexico. Big Cypress National Preserve contains a mixture of tropical and temperate plant communities that are home to a diversity of wildlife, including the endangered Florida panther.
+                    
+                    The preserve also protects the customary use and occupancy by the Seminole Tribe of Florida and the Miccosukee Tribe of Indians of Florida as well as a variety of traditional recreational activities enjoyed by many.</string>
+			<key>parkMap</key>
+			<string></string>
+			<key>direction</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>parkName</key>
+			<string>Castillo de San Marcos</string>
+			<key>parkImageS</key>
+			<string>Images/Small/CastillodeSanMarcos.jpg</string>
+			<key>parkLocation</key>
+			<string>St. Augustine, FL</string>
+			<key>parkImageL</key>
+			<string></string>
+			<key>yearOpen</key>
+			<date>1974-10-11T14:39:00Z</date>
+			<key>parkAddress</key>
+			<string>33100 Tamiami Trail East
+                    Ochopee, FL 34141 </string>
+			<key>parkDesc</key>
+			<string>Big Cypress National Preserve was created to protect the fresh water&apos;s natural flow from the Big Cypress Swamp into the Everglades and Ten Thousand Islands. In the Preserve, fresh water feeds a mosaic of five distinct habitats in its 729,000 acres and is vital to the health of southwest Florida&apos;s estuaries and the Gulf of Mexico. Big Cypress National Preserve contains a mixture of tropical and temperate plant communities that are home to a diversity of wildlife, including the endangered Florida panther.
+                    
+                    The preserve also protects the customary use and occupancy by the Seminole Tribe of Florida and the Miccosukee Tribe of Indians of Florida as well as a variety of traditional recreational activities enjoyed by many.</string>
+			<key>parkMap</key>
+			<string></string>
+			<key>direction</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>D</key>
+	<array>
+		<dict>
+			<key>parkName</key>
+			<string>De Soto</string>
+			<key>parkImageS</key>
+			<string>Images/Small/DeSoto.jpg</string>
+			<key>parkLocation</key>
+			<string>Bradenton, FL</string>
+			<key>parkImageL</key>
+			<string></string>
+			<key>yearOpen</key>
+			<date>1974-10-11T14:39:00Z</date>
+			<key>parkAddress</key>
+			<string>33100 Tamiami Trail East
+                    Ochopee, FL 34141 </string>
+			<key>parkDesc</key>
+			<string>Big Cypress National Preserve was created to protect the fresh water&apos;s natural flow from the Big Cypress Swamp into the Everglades and Ten Thousand Islands. In the Preserve, fresh water feeds a mosaic of five distinct habitats in its 729,000 acres and is vital to the health of southwest Florida&apos;s estuaries and the Gulf of Mexico. Big Cypress National Preserve contains a mixture of tropical and temperate plant communities that are home to a diversity of wildlife, including the endangered Florida panther.
+                    
+                    The preserve also protects the customary use and occupancy by the Seminole Tribe of Florida and the Miccosukee Tribe of Indians of Florida as well as a variety of traditional recreational activities enjoyed by many.</string>
+			<key>parkMap</key>
+			<string></string>
+			<key>direction</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>parkName</key>
+			<string>Dry Tortugas</string>
+			<key>parkImageS</key>
+			<string>Images/Small/DryTortugas.jpg</string>
+			<key>parkLocation</key>
+			<string>Key West, FL</string>
+			<key>parkImageL</key>
+			<string></string>
+			<key>yearOpen</key>
+			<date>1974-10-11T14:39:00Z</date>
+			<key>parkAddress</key>
+			<string>33100 Tamiami Trail East
+                    Ochopee, FL 34141 </string>
+			<key>parkDesc</key>
+			<string>Big Cypress National Preserve was created to protect the fresh water&apos;s natural flow from the Big Cypress Swamp into the Everglades and Ten Thousand Islands. In the Preserve, fresh water feeds a mosaic of five distinct habitats in its 729,000 acres and is vital to the health of southwest Florida&apos;s estuaries and the Gulf of Mexico. Big Cypress National Preserve contains a mixture of tropical and temperate plant communities that are home to a diversity of wildlife, including the endangered Florida panther.
+                    
+                    The preserve also protects the customary use and occupancy by the Seminole Tribe of Florida and the Miccosukee Tribe of Indians of Florida as well as a variety of traditional recreational activities enjoyed by many.</string>
+			<key>parkMap</key>
+			<string></string>
+			<key>direction</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>E</key>
+	<array>
+		<dict>
+			<key>parkName</key>
+			<string>Everglades</string>
+			<key>parkImageS</key>
+			<string>Images/Small/Everglades.jpg</string>
+			<key>parkLocation</key>
+			<string>Miami,Naples and Homestead, FL</string>
+			<key>parkImageL</key>
+			<string></string>
+			<key>yearOpen</key>
+			<date>1974-10-11T14:39:00Z</date>
+			<key>parkAddress</key>
+			<string>33100 Tamiami Trail East
+                    Ochopee, FL 34141 </string>
+			<key>parkDesc</key>
+			<string>Big Cypress National Preserve was created to protect the fresh water&apos;s natural flow from the Big Cypress Swamp into the Everglades and Ten Thousand Islands. In the Preserve, fresh water feeds a mosaic of five distinct habitats in its 729,000 acres and is vital to the health of southwest Florida&apos;s estuaries and the Gulf of Mexico. Big Cypress National Preserve contains a mixture of tropical and temperate plant communities that are home to a diversity of wildlife, including the endangered Florida panther.
+                    
+                    The preserve also protects the customary use and occupancy by the Seminole Tribe of Florida and the Miccosukee Tribe of Indians of Florida as well as a variety of traditional recreational activities enjoyed by many.</string>
+			<key>parkMap</key>
+			<string></string>
+			<key>direction</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>F</key>
+	<array>
+		<dict>
+			<key>parkName</key>
+			<string>Fort Caroline</string>
+			<key>parkImageS</key>
+			<string>Images/Small/FortCaroline.jpg</string>
+			<key>parkLocation</key>
+			<string>Jacksonville, FL</string>
+			<key>parkImageL</key>
+			<string></string>
+			<key>yearOpen</key>
+			<date>1974-10-11T14:39:00Z</date>
+			<key>parkAddress</key>
+			<string>33100 Tamiami Trail East
+                    Ochopee, FL 34141 </string>
+			<key>parkDesc</key>
+			<string>Big Cypress National Preserve was created to protect the fresh water&apos;s natural flow from the Big Cypress Swamp into the Everglades and Ten Thousand Islands. In the Preserve, fresh water feeds a mosaic of five distinct habitats in its 729,000 acres and is vital to the health of southwest Florida&apos;s estuaries and the Gulf of Mexico. Big Cypress National Preserve contains a mixture of tropical and temperate plant communities that are home to a diversity of wildlife, including the endangered Florida panther.
+                    
+                    The preserve also protects the customary use and occupancy by the Seminole Tribe of Florida and the Miccosukee Tribe of Indians of Florida as well as a variety of traditional recreational activities enjoyed by many.</string>
+			<key>parkMap</key>
+			<string></string>
+			<key>direction</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>parkName</key>
+			<string>Fort Matanzas</string>
+			<key>parkImageS</key>
+			<string>Images/Small/FortMatanzas.jpg</string>
+			<key>parkLocation</key>
+			<string>St. Augustine, FL</string>
+			<key>parkImageL</key>
+			<string></string>
+			<key>yearOpen</key>
+			<date>1974-10-11T14:39:00Z</date>
+			<key>parkAddress</key>
+			<string>33100 Tamiami Trail East
+                    Ochopee, FL 34141 </string>
+			<key>parkDesc</key>
+			<string>Big Cypress National Preserve was created to protect the fresh water&apos;s natural flow from the Big Cypress Swamp into the Everglades and Ten Thousand Islands. In the Preserve, fresh water feeds a mosaic of five distinct habitats in its 729,000 acres and is vital to the health of southwest Florida&apos;s estuaries and the Gulf of Mexico. Big Cypress National Preserve contains a mixture of tropical and temperate plant communities that are home to a diversity of wildlife, including the endangered Florida panther.
+                    
+                    The preserve also protects the customary use and occupancy by the Seminole Tribe of Florida and the Miccosukee Tribe of Indians of Florida as well as a variety of traditional recreational activities enjoyed by many.</string>
+			<key>parkMap</key>
+			<string></string>
+			<key>direction</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>G</key>
+	<array>
+		<dict>
+			<key>parkName</key>
+			<string>Gullah/Geechee</string>
+			<key>parkImageS</key>
+			<string>Images/Small/bigcypress.jpg</string>
+			<key>parkLocation</key>
+			<string>FL, GA, NC, SC</string>
+			<key>parkImageL</key>
+			<string></string>
+			<key>yearOpen</key>
+			<date>1974-10-11T14:39:00Z</date>
+			<key>parkAddress</key>
+			<string>33100 Tamiami Trail East
+                    Ochopee, FL 34141 </string>
+			<key>parkDesc</key>
+			<string>Big Cypress National Preserve was created to protect the fresh water&apos;s natural flow from the Big Cypress Swamp into the Everglades and Ten Thousand Islands. In the Preserve, fresh water feeds a mosaic of five distinct habitats in its 729,000 acres and is vital to the health of southwest Florida&apos;s estuaries and the Gulf of Mexico. Big Cypress National Preserve contains a mixture of tropical and temperate plant communities that are home to a diversity of wildlife, including the endangered Florida panther.
+                    
+                    The preserve also protects the customary use and occupancy by the Seminole Tribe of Florida and the Miccosukee Tribe of Indians of Florida as well as a variety of traditional recreational activities enjoyed by many.</string>
+			<key>parkMap</key>
+			<string></string>
+			<key>direction</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>T</key>
+	<array>
+		<dict>
+			<key>parkName</key>
+			<string>Timucuan</string>
+			<key>parkImageS</key>
+			<string>Images/Small/Timucuan.jpg</string>
+			<key>parkLocation</key>
+			<string>Jacksonville, FL</string>
+			<key>parkImageL</key>
+			<string></string>
+			<key>yearOpen</key>
+			<date>1974-10-11T14:39:00Z</date>
+			<key>parkAddress</key>
+			<string>33100 Tamiami Trail East
+                    Ochopee, FL 34141 </string>
+			<key>parkDesc</key>
+			<string>Big Cypress National Preserve was created to protect the fresh water&apos;s natural flow from the Big Cypress Swamp into the Everglades and Ten Thousand Islands. In the Preserve, fresh water feeds a mosaic of five distinct habitats in its 729,000 acres and is vital to the health of southwest Florida&apos;s estuaries and the Gulf of Mexico. Big Cypress National Preserve contains a mixture of tropical and temperate plant communities that are home to a diversity of wildlife, including the endangered Florida panther.
+                    
+                    The preserve also protects the customary use and occupancy by the Seminole Tribe of Florida and the Miccosukee Tribe of Indians of Florida as well as a variety of traditional recreational activities enjoyed by many.</string>
+			<key>parkMap</key>
+			<string></string>
+			<key>direction</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

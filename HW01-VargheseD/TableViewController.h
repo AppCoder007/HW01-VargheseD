@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  HW01-VargheseD
 //
 //  Created by Dona varghese on 11/11/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TableViewController : UITableViewController
 
 @end
-
