@@ -75,7 +75,7 @@
     [cell.contentView addSubview:bottomLineView];
     
     
-    self.tableView.rowHeight = 250;
+    self.tableView.rowHeight = 380;
     self.tableView.backgroundColor = [UIColor blueColor];
    cell.backgroundColor = [UIColor greenColor];
     cell.imageView.image = [UIImage imageNamed:keyValues[indexPath.row][@"parkImageS"]];

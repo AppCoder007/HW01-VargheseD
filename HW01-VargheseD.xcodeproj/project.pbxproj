@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E6C43201FBA2DCC00132778 /* ScrollViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E6C431F1FBA2DCC00132778 /* ScrollViewController.m */; };
 		1EBEA7791FB741CC0030D62B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EBEA7781FB741CC0030D62B /* AppDelegate.m */; };
 		1EBEA7811FB741CC0030D62B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EBEA7801FB741CC0030D62B /* Assets.xcassets */; };
 		1EBEA7841FB741CC0030D62B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EBEA7821FB741CC0030D62B /* LaunchScreen.storyboard */; };
@@ -38,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1E6C431E1FBA2DCC00132778 /* ScrollViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ScrollViewController.h; sourceTree = "<group>"; };
+		1E6C431F1FBA2DCC00132778 /* ScrollViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScrollViewController.m; sourceTree = "<group>"; };
 		1EBEA7741FB741CC0030D62B /* HW01-VargheseD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HW01-VargheseD.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1EBEA7771FB741CC0030D62B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1EBEA7781FB741CC0030D62B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -121,6 +124,8 @@
 				1EBEA7B31FB7881F0030D62B /* parks.plist */,
 				1EBEA7861FB741CC0030D62B /* main.m */,
 				1EBEA7AB1FB761FA0030D62B /* Images */,
+				1E6C431E1FBA2DCC00132778 /* ScrollViewController.h */,
+				1E6C431F1FBA2DCC00132778 /* ScrollViewController.m */,
 			);
 			path = "HW01-VargheseD";
 			sourceTree = "<group>";
@@ -278,6 +283,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E6C43201FBA2DCC00132778 /* ScrollViewController.m in Sources */,
 				1EBEA7AF1FB780B60030D62B /* CellTableViewCell.m in Sources */,
 				1EBEA7871FB741CC0030D62B /* main.m in Sources */,
 				1EBEA7B21FB783B10030D62B /* TableViewController.m in Sources */,
